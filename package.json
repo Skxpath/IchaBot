@@ -2,7 +2,7 @@
   "name": "ichabot",
   "version": "1.0.0",
   "description": "Discord bot in node.js using the discord.js api. Currently in development and not ready for release.",
-  "main": "bot.js",
+  "main": "index.js",
   "dependencies": {
     "discord.js-commando": "^0.10.0",
     "discord.js": "^11.5.0"
